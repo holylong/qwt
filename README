@@ -1,4 +1,15 @@
 
+## 编译方式
+```
+cmake -GNinja -Bbuild_ninja
+cmake --build build_ninja
+```
+
+## 运行所有例子
+```
+build_ninja\split_main.exe --path=%cd%\build_ninja
+```
+
 The Qwt Widget Library
 ----------------------
 
