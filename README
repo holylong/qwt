@@ -1,4 +1,4 @@
-|![game](screenshot/28a04637c1a4453197e938d2c53db761.gif)|
+|![game](./screenshot/28a04637c1a4453197e938d2c53db761.gif)|
 
 
 ## 编译方式
